@@ -15,7 +15,7 @@ class _UhrzeitState extends State<UhrzeitChoice>{
         ),
         ChoiceChip(
           label: Text(
-            '07:30 Uhr',
+            '07:uhiuuUhr',
             style: TextStyle(
               color: Colors.black,
             ),
