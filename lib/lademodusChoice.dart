@@ -9,9 +9,9 @@ class _LademodusChoiceState extends State<LademodusChoice> {
 
   bool _dynamisch = true;
   String dynamischText =
-      'Beim dynamischen Laden wird Ihr Fahrzeug unter Berücksichtigung der eingegebenen Informationen optimal geladen.';
+      'ioiozeug unter Berücksichtigung der eingegebenen Informationen optimal geladen.';
   String statischText =
-      'Ihr Fahrzeug wird mit maximaler Geschwindigkeit geladen. Mit erhöhten Stromkosten und mit einer geminderten Batterie-Lebensdauer sind zu rechnen.';
+      'I made a change Geschwindigkeit geladen. Mit erhöhten Stromkosten und mit einer geminderten Batterie-Lebensdauer sind zu rechnen.';
   String displayedText = null;
 
   @override
